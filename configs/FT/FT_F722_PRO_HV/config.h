@@ -17,6 +17,16 @@
  #define USE_FLASH
  #define USE_FLASH_W25Q128FV
  #define USE_MAX7456
+ #define USE_ALTITUDE_HOLD
+ #define USE_CAMERA_CONTROL
+ #define USE_GPS
+ #define USE_GPS_NMEA
+ #define USE_GPS_RESCUE
+ #define USE_GPS_UBLOX
+ #define USE_OPTICALFLOW
+ #define USE_POSITION_HOLD
+ #define USE_RANGEFINDER
+ #define USE_SERVOS
  
  #define BEEPER_PIN           PC13
  #define MOTOR1_PIN           PC8
